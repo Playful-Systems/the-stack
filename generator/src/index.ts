@@ -37,6 +37,7 @@ const main = async () => {
 
   await fs.writeFile("../README.md", `# The-Stack
 2023 modern web development tech stack
+
 ${markdown}`)
 
 };
