@@ -5,12 +5,17 @@ export const transformBodyForMarkdown = (headers: typeof Headers, tools: Tools) 
   return tools.map((tool) => {
     return headers.map((header) => {
 
+      if (tool[header.value] === undefined) {
+        return "";
+      }
+
       if (header.type === "string") {
         return tool[header.value];
       }
 
       if (header.type === "link") {
         const value = tool[header.value];
+        if (value === undefined) return "";
         return `[${value.title}](${value.url})`;
       }
 

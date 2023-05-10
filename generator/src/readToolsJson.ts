@@ -10,8 +10,8 @@ const schema = z.array(
   z.object({
     name: z.string(),
     docs: link,
-    intro: link,
-    tutorial: link,
+    intro: link.optional(),
+    tutorial: link.optional(),
   })
 )
 

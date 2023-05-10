@@ -35,7 +35,7 @@ const main = async () => {
   const content = [headers, ...body]
   const markdown = markdownTable(content)
 
-  await fs.writeFile("../README.md", `# the-stack
+  await fs.writeFile("../README.md", `# The-Stack
 2023 modern web development tech stack
 ${markdown}`)
 

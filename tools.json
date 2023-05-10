@@ -28,5 +28,102 @@
       "title": "Typescript Tutorial for beginners",
       "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs"
     }
+  },
+  {
+    "name": "Node.js",
+    "docs": {
+      "title": "nodejs.org",
+      "url": "https://nodejs.org/dist/latest-v18.x/docs/api/"
+    },
+    "intro": {
+      "title": "Node.js in 100 seconds",
+      "url": "https://www.youtube.com/watch?v=BwM1V4_dl14"
+    },
+    "tutorial": {
+      "title": "Node.js Beginners Guide",
+      "url": "https://www.youtube.com/watch?v=U8XF6AFGqlc"
+    }
+  },
+  {
+    "name": "Pnpm",
+    "docs": {
+      "title": "pnpm.io",
+      "url": "https://pnpm.io/motivation"
+    },
+    "intro": {
+      "title": "Fet Started with pnpm",
+      "url": "https://www.youtube.com/watch?v=MvbReZDSKHI"
+    },
+    "tutorial": {
+      "title": "Why I Switched From NPM/Yarn to PNPM And Why You Should Too!",
+      "url": "https://www.youtube.com/watch?v=d1E31WPR70g"
+    }
+  },
+  {
+    "name": "Next.js",
+    "docs": {
+      "title": "nextjs.org",
+      "url": "https://nextjs.org/docs"
+    },
+    "intro": {
+      "title": "Next.js App Router: Routing, Data Fetching, Caching",
+      "url": "https://www.youtube.com/watch?v=gSSsZReIFRk"
+    },
+    "tutorial": {
+      "title": "Next.js 13 App Directory Tutorial",
+      "url": "https://www.youtube.com/watch?v=Y6KDk5iyrYE"
+    }
+  },
+  {
+    "name": "Zod",
+    "docs": {
+      "title": "zod.dev",
+      "url": "https://zod.dev/"
+    },
+    "tutorial": {
+      "title": "Learn Zod In 30 Minutes",
+      "url": "https://www.youtube.com/watch?v=L6BE-U3oy80"
+    }
+  },
+  {
+    "name": "TRPC",
+    "docs": {
+      "title": "trpc.io",
+      "url": "https://trpc.io/docs"
+    },
+    "intro": {
+      "title": "Learn tRPC in 5 minutes",
+      "url": "https://www.youtube.com/watch?v=S6rcrkbsDI0"
+    },
+    "tutorial": {
+      "title": "Learn tRPC In 45 Minutes",
+      "url": "https://www.youtube.com/watch?v=UfUbBWIFdJs"
+    }
+  },
+  {
+    "name": "Prisma",
+    "docs": {
+      "title": "prisma.io",
+      "url": "https://www.prisma.io/docs"
+    },
+    "intro": {
+      "title": "Prisma in 100 Seconds",
+      "url": "https://www.youtube.com/watch?v=rLRIB6AF2Dg"
+    },
+    "tutorial": {
+      "title": "Learn Prisma In 60 Minutes",
+      "url": "https://www.youtube.com/watch?v=RebA5J-rlwg"
+    }
+  },
+  {
+    "name": "Drizzle",
+    "docs": {
+      "title": "github.com/drizzle-team/drizzle-orm",
+      "url": "https://github.com/drizzle-team/drizzle-orm/blob/main/drizzle-orm/src/mysql-core/README.md"
+    },
+    "intro": {
+      "title": "The Prisma Killer",
+      "url": "https://www.youtube.com/watch?v=3tl9XCiQErA"
+    }
   }
 ]
