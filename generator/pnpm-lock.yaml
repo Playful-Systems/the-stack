@@ -1,0 +1,44 @@
+lockfileVersion: '6.0'
+
+dependencies:
+  markdown-table:
+    specifier: ^3.0.3
+    version: 3.0.3
+  zod:
+    specifier: ^3.21.4
+    version: 3.21.4
+
+devDependencies:
+  '@tsconfig/node20':
+    specifier: ^1.0.0
+    version: 1.0.0
+  '@types/node':
+    specifier: ^20.1.2
+    version: 20.1.2
+  typescript:
+    specifier: ^5.0.4
+    version: 5.0.4
+
+packages:
+
+  /@tsconfig/node20@1.0.0:
+    resolution: {integrity: sha512-AwbXtpWEaRUjbGVwdlusNqwet+jeSk3Nnqf/8+77WJ1/9d6xnqs2QpE9Pdwv8RCoXxtMedWEtlmWY+/irBPcUw==}
+    dev: true
+
+  /@types/node@20.1.2:
+    resolution: {integrity: sha512-CTO/wa8x+rZU626cL2BlbCDzydgnFNgc19h4YvizpTO88MFQxab8wqisxaofQJ/9bLGugRdWIuX/TbIs6VVF6g==}
+    dev: true
+
+  /markdown-table@3.0.3:
+    resolution: {integrity: sha512-Z1NL3Tb1M9wH4XESsCDEksWoKTdlUafKc4pt0GRwjUyXaCFZ+dc3g2erqB6zm3szA2IUSi7VnPI+o/9jnxh9hw==}
+    dev: false
+
+  /typescript@5.0.4:
+    resolution: {integrity: sha512-cW9T5W9xY37cc+jfEnaUvX91foxtHkza3Nw3wkoF4sSlKn0MONdkdEndig/qPBWXNkmplh3NzayQzCiHM4/hqw==}
+    engines: {node: '>=12.20'}
+    hasBin: true
+    dev: true
+
+  /zod@3.21.4:
+    resolution: {integrity: sha512-m46AKbrzKVzOzs/DZgVnG5H55N1sv1M8qZU3A8RIKbs3mrACDNeIOeilDymVb2HdmP8uwshOCF4uJ8uM9rCqJw==}
+    dev: false

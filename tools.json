@@ -1,0 +1,32 @@
+[
+  {
+    "name": "React",
+    "docs": {
+      "title": "react.dev",
+      "url": "https://react.dev/"
+    },
+    "intro": {
+      "title": "React in 100 seconds",
+      "url": "https://www.youtube.com/watch?v=Tn6-PIqc4UM"
+    },
+    "tutorial": {
+      "title": "React Tutorial for beginners",
+      "url": "https://www.youtube.com/watch?v=SqcY0GlETPk"
+    }
+  },
+  {
+    "name": "Typescript",
+    "docs": {
+      "title": "typescriptlang.org",
+      "url": "https://www.typescriptlang.org/docs/"
+    },
+    "intro": {
+      "title": "Typescript in 100 seconds",
+      "url": "https://www.youtube.com/watch?v=zQnBQ4tB3ZA"
+    },
+    "tutorial": {
+      "title": "Typescript Tutorial for beginners",
+      "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs"
+    }
+  }
+]
